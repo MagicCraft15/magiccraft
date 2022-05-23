@@ -1,0 +1,9 @@
+{
+  "ip": "game6.falix.cc:56311",
+  "port": "56311",
+  "name": "MagicCraft",
+  "auto-night-skip": "false",
+  "login-enabled": "true",
+  "register-cmd": "/register pass123 ",
+  "login-cmd": "/login pass123 "
+}
